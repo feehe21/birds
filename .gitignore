@@ -1,0 +1,9 @@
+/images
+/logs
+/models
+/test
+/test-birds
+/train
+.DS_STORE
+/.ipynb_checkpoints
+*.py
